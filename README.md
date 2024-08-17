@@ -1,1 +1,1 @@
-<h1>` #FFF`This is a mail signature</h1>
+<h1 color="gray">This is a mail signature</h1>
