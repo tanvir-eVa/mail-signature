@@ -4,7 +4,7 @@
 
 You can view my email signature by clicking the link below:
 
-[View My Email Signature](https://github.com/yourusername/yourrepo/blob/main/signature.html)
+[View My Email Signature](https://tanvir-eva.github.io/mail-signature/)
 
 For a direct preview, you might not see full styling on GitHub, but you can check out the file directly:
 
