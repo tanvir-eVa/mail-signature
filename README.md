@@ -1,1 +1,1 @@
-<h1 color="gray">This is a mail signature</h1>
+# `#0969DA`This is a mail signature
