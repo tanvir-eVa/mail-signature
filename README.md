@@ -1,1 +1,1 @@
- <span style="color: #5363F2">This is a mail signature</span>
+ <span style="text-align:center">This is a mail signature</span>
